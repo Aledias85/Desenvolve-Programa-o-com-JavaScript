@@ -1,0 +1,22 @@
+/* Classe aplicada aos parágrafos */
+.info-petshop {
+    color: #FF6347;  /* Cor dos parágrafos em vermelho-tomate */
+    font-size: 18px;  /* Tamanho da fonte dos parágrafos */
+    font-style: italic;  /* Texto em itálico */
+}
+
+/* Estilo geral para o botão */
+button {
+    padding: 10px 20px;
+    background-color: #48D1CC;  /* Cor de fundo do botão */
+    color: white;  /* Cor do texto do botão */
+    border: none;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+/* Botão ao passar o mouse */
+button:hover {
+    background-color: #20B2AA;  /* Cor mais escura ao passar o mouse */
+}
